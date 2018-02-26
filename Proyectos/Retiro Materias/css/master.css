@@ -1,0 +1,20 @@
+body {
+    margin-top: 2em;
+}
+
+header h1 {
+    text-align: center;
+}
+
+div.caja, div.nivel2 {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#alumno, #asignatura {
+    padding-bottom: 2em;
+}
+
+#btn-center {
+    text-align: center;
+}
